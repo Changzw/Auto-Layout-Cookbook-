@@ -3,6 +3,10 @@
 This an upgraded version of the [Auto Layout Cookbook project](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/LayoutUsingStackViews.html) from Apple's Developer site.
 [Auto-Layout-Cookbook.zip](https://developer.apple.com/sample-code/xcode/downloads/Auto-Layout-Cookbook.zip)
 
+fork from [Auto-Layout-Cookbook](https://github.com/robert-wallis/Auto-Layout-Cookbook)
+# Update 2020-12-05
+* ✅ update xib files with Xcode Version 12.2 (12B45b) 
+
 # Update 2019-11-22
 * ✅ 2020-04-15: Still works with **XCode 11.4 (11E146)** and **iOS 13.4.1**
 
